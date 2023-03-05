@@ -1,0 +1,16 @@
+/* CSS Document */
+
+#SEC-1{margin-top: 30px;}
+.banner-1{
+	background-image: url("../img/22_wym_f04_00_design_pc_1440x500.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 500px;
+}
+
+.banner-2{
+	background-image: url("../img/22_wym_f05_01_smart-things_pc_1440x500_1.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 500px;
+}

@@ -1,0 +1,21 @@
+/* CSS Document */
+body{background-color: #070707}
+
+/*-----#SEC-1-----*/
+#SEC-1{margin-top: 30px;}
+#SEC-1 video{
+	margin: 0;
+	width: 100vw;
+	z-index: -1;
+	position: fixed;
+}
+/*-----#SEC-2-----*/
+
+#SEC-2{background-color: #070707;}
+
+/*-----SEC-3-----*/
+#SEC-3 {background-image: url("../img/22_wym_f01_kv_pc_1440x640.jpg");background-size: cover;background-repeat: no-repeat}
+
+
+/*-----#SEC-4------*/
+#SEC-4{background-image: url("../img/s23-4.jpg");background-size: cover;background-repeat: no-repeat; background-attachment: fixed}

@@ -1,0 +1,27 @@
+/* CSS Document */
+
+body{color: white}
+body{background-color: #070707}
+h1,h2,h3,h4,h5,h6,p{color: white}
+section{background-color: #070707}
+
+#SEC-1{
+	background-image: url("../img/s23 ultra.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+#SEC-2{min-height: 400px}
+#SEC-2 li{
+	padding: 5px 0;
+	display: block;
+	border-bottom: thin solid white;
+}
+
+#SEC-5{
+	background-image: url("../img/camera s23.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
